@@ -21,6 +21,15 @@ assets:
     type: "blob.asset"
     data:
       url: "https://raw.githubusercontent.com/klutchell/balena-pihole/main/logo.png"
+  repository:
+    type: "blob.asset"
+    data:
+      url: "https://github.com/BluenationStudio/balena-unifi"
+  logo:
+    type: "blob.asset"
+    data:
+      url: "https://raw.githubusercontent.com/BluenationStudio/balena-unifi/master/ui.webp"
+
 data:
   applicationConfigVariables:
     - BALENA_HOST_CONFIG_gpu_mem: 64
