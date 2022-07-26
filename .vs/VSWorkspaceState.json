@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\.github\\workflows",
+    "\\pihole\\cont-init.d",
+    "\\pihole\\services"
+  ],
+  "SelectedNode": "\\balena.yml",
+  "PreviewInSolutionExplorer": false
+}
